@@ -61,3 +61,8 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+
+# big data files
+data/
+*.cvs
